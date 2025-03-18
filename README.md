@@ -1,2 +1,4 @@
 # Data_Analysis
-I developed a comprehensive porject in Excel, creating multiple dashboards and tables to nlyze the data. This process involved several stages, including dta preprocessing, data cleaning and data visualization.
+I developed a comprehensive project in Excel, creating multiple dashboards and tables to nlyze the data. This process involved several stages, including dta preprocessing, data cleaning and data visualization.
+I've analyzed key indicators for a coffe shop sales data to gain insights into the business performance. I've calculated different metrics as total revenue, average order value, total products sold, total orders, average products per order. 
+I've also visualized various aspects of the coffe shop sals data to gain insights and understand key trends. I've identified different requirements for creating charts like daily trend for total orders, hourly trend for total orders, percentage of sales by product category, percentage of sales by product type, total products sold by category, top 5 best and worst sellers.
